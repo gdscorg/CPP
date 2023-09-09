@@ -1,0 +1,3 @@
+The above are some of the project ideas ranging from easy to expert level.
+
+Try to develop the projects using most optimized approach that handles various test cases and works efficiently.
